@@ -1,0 +1,5 @@
+Option Explicit
+
+' ================== HERE ARE SOME EVENTS
+Event Click()
+Event MouseDown(Button As Integer, Shift As Integer, X As Single, Y As Single)
